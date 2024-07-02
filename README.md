@@ -139,8 +139,39 @@ console.log(signedPoem); // This will output the signed poem to your console
 
 ### About & Contact
 
-**Program Poetry** is a project by [The 'What If' Project](https://thewhatifproject.com/), a generative art studio blending data, creative coding, and artificial intelligence to create digital experiences connecting humans and machines, follow us on ([Instagram](https://www.instagram.com/the.whatifproject/)). For questions, suggestions, or contributions, feel free to contact us.
+**Program Poetry** is a project by [The 'What If' Project](https://thewhatifproject.com/), a generative art studio blending data, creative coding, and artificial intelligence to create digital experiences connecting humans and machines, follow us on [Instagram](https://www.instagram.com/the.whatifproject/). For questions, suggestions, or contributions, feel free to contact us.
 
+```go
+// Title: The 'What If' Symphony
+// Powered by The 'What If' Project
+// Generated and wrote by: Daniele Giannini
+
+package main
+
+import (
+    "fmt"
+)
+
+// The 'What If' Symphony
+// A tale in code we weave,
+// Data, art, and AI blend,
+// Digital dreams we conceive.
+
+func main() {
+    // Generative art's essence,
+    whatIf := "Creativity in each line,"
+    fmt.Println("Welcome to The 'What If' Project,")
+    fmt.Println(whatIf)
+
+    // Follow our journey,
+    fmt.Println("Join us on Instagram,")
+    fmt.Println("At: https://www.instagram.com/the.whatifproject/")
+
+    // Reach out and connect,
+    contact := "contact@thewhatifproject.com"
+    fmt.Printf("For questions, suggestions, or contributions,\nEmail us at: %s\n", contact)
+}
+```
 ---
 
 Thank you for being part of Program Poetry and for **contributing to our creative community**!
