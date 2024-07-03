@@ -6,7 +6,7 @@
 
 ## The Tale of Program Poetry
 
-**Program Poetry** is a project that merges programming and poetry, transforming stories and topics into short poems through programming language syntax. This project explores new frontiers of generative art, using creative coding as a medium to communicate and tell stories in an innovative way.
+**Program Poetry** is a project that uses Generative AI to merge programming and poetry, transforming natural language stories and topics into poems through programming language syntax. This project explores new frontiers of generative art, using creative coding as a medium to communicate and tell stories in an innovative way.
 
 **Program Poetry** combines the beauty of poetry with the precision of code, creating works that are both expressive and functional. Each piece is unique, reflecting the essence of the subject through code snippets.
 
